@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to xwj blog
-date: 2024-12-29 18:18 +0800
+date: 2024-12-28 18:18 +0800
 last_modified_at: 2024-12-29 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
